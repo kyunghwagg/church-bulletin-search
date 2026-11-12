@@ -16,7 +16,7 @@ def load_data():
 
 df = load_data()
 
-st.title("💒 광주베델교회 주보 검색 시스템")
+st.title("💒 광주벧엘교회 주보 검색 시스템")
 st.markdown("---")
 
 if df is None:
